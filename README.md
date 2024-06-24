@@ -31,23 +31,23 @@ Telegram UI kit equips you with a variety of pre-designed components and tools t
 ## Installation
 
 ```sh
-npm i @telegram-apps/telegram-ui
+npm i @razorlabs/tg-uikit
 ```
 
 ```sh
-yarn add @telegram-apps/telegram-ui
+yarn add @razorlabs/tg-uikit
 ```
 
 ```sh
-pnpm add @telegram-apps/telegram-ui
+pnpm add @razorlabs/tg-uikit
 ```
 
 ## Usage
 
 ```jsx static
-import '@telegram-apps/telegram-ui/dist/styles.css';
+import '@razorlabs/tg-uikit/dist/styles.css';
 
-import { AppRoot, Placeholder } from '@telegram-apps/telegram-ui';
+import { AppRoot, Placeholder } from '@razorlabs/tg-uikit';
 
 const App = () => (
   <AppRoot>

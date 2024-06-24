@@ -1,7 +1,7 @@
 {
-  "name": "@telegram-apps/telegram-ui",
-  "version": "2.1.5",
-  "description": "World-class, ultimate UI developer toolkit.",
+  "name": "@razorlabs/tg-uikit",
+  "version": "1.0.0",
+  "description": "UI Kit for Razor Pro",
   "main": "dist/cjs/index.js",
   "module": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -33,14 +33,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:Telegram-Mini-Apps/TelegramUI.git"
+    "url": "git+ssh://git@github.com:razorlabsorg/tg-uikit.git"
   },
-  "author": "Ilya Smirnov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Telegram-Mini-Apps/TelegramUI/issues"
+    "url": "https://github.com/razorlabsorg/tg-uikit/issues"
   },
-  "homepage": "https://github.com/Telegram-Mini-Apps/TelegramUI#readme",
+  "homepage": "https://github.com/razorlabsorg/tg-uikit#readme",
   "peerDependencies": {
     "react": "18.2.0",
     "react-dom": "18.2.0"
